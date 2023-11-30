@@ -9,4 +9,6 @@
 ```
 sudo apt-get install autokey-gtk
 pip3 install googletrans
+pip3 install pyperclip
+pip3 install pyautogui
 ```
